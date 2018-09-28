@@ -1,2 +1,2 @@
-# gardersange
-Sange sunget i Varde Garden
+# Gardersange
+Sange sunget i Varde Garden.
